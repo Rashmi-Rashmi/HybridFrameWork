@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hybridframework" />
+        <module name="https-github.com-abu112629-HybridFrameWork" />
       </profile>
     </annotationProcessing>
   </component>
